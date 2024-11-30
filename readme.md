@@ -22,7 +22,7 @@
 ### Steps
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/0xSHIN/kid-chameleon-kega-fusion.git
+   git clone https://github.com/0xSHIN/kid-chameleon-speedrun.git
    ```
 2. Extract the repository files to a folder of your choice.
 3. Open the **Kega Fusion** emulator.
